@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+Pillow
+scikit-learn
+onnx
+onnxruntime
+gradio
+datasets
